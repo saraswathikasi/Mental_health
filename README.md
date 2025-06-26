@@ -5,4 +5,4 @@ Mental health chatbot using agentic ai
 2. It also used to detect crises related message and call helplines and safety resources. 
 3. Every response is being logged for security purpose and accountability.
 4. It also contains a smooth userinterface which makes it ideal for integration into health platform or education portals.
-5. 
+5. Here for working wew have choosen anaconda and python 3.9 version
